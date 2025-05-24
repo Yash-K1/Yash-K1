@@ -1,5 +1,5 @@
 # 💫 About Me:
-Working on 10+ Projects covering Machine Learning, NLP, Deep Learning and more.<br>Currently Learning Data Analytics and Visualization and ML.<br>BCA-AIML Student @ JNU, Jaipur<br>Passion for Python and Data Science! 
+Building Mindora 
 
 
 ## 🌐 Socials:
